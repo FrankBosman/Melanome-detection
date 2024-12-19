@@ -1,0 +1,3 @@
+# Ignore the models, as they are to big for github
+models/*
+!models/.keep
