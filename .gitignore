@@ -5,3 +5,4 @@ models/*
 # Ignore the datasets
 datasets/*
 !datasets/.keep
+!datasets/download_dataset.ipynb
